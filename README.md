@@ -2,7 +2,7 @@
 
 This guide tries to find a common consensus regarding addressing and greeting in emails: who to address, how to use the 'To' and 'CC' fields, and how to greet the recipients.
 
-The ultimate goal is to eliminate ambiguity and to provide just enough information, without being unpolite.
+The goal is to eliminate ambiguity and provide just enough information, without being unpolite.
 
 These guidelines are in English and for English mails, but should be largely transferable to other languages and cultures. This is very welcomed as a community effort.
 
@@ -12,25 +12,25 @@ These guidelines are in English and for English mails, but should be largely tra
 
 ## Determining recipients
 
-Before sending a mail, always first carefully think about who the recipients should be. This usually solves most of the possible problems and amniguity. Generally, a mail should only be sent *to* a single person; or as few people as possible.
+Before sending a mail, always first carefully think about who the recipients should be. This usually solves most of the possible problems and ambiguity. Generally, a mail should only be sent *to* a single person; or as few people as possible.
 
 ### General rule
 
 #### Address whom you expect an action or response from
 
-If you ask an action to multiple recipients, it's confusing because they might expect from each other that the other person will do it. They are also never sure that if the other person undertook the action, they will notify everyone (reply-all), or not, or whether or not they already started. Therefore, even though you know that multiple persons could do the job, it might be better to address only one person, and ask him to maybe check with another person. Politely ask whether your addressee is the right person for the task; and add that he/she is free to delegate if not.
+If you ask an action to multiple recipients, it's confusing because they might expect from each other that the other person will do it. They are also never sure that if the other person executed the action, he or she will notify everyone (reply-all), nor whether or not they already started. Therefore, even though you know that multiple persons *could* do the job, it might be better to address only one person, and ask him or her to maybe check with, or delegate to, another person. You may want to politely ask whether your addressee is the right person for the job; and add that he/she is free to delegate if not.
 
-Responding to a question is in fact also 'an action', and so it should also only be directed to one person in particular - who might want to delegate.
+Responding to a question is in fact also 'an action', and so should also only be directed to one person in particular.
 
 ### Actions or responses from multiple people
 
-Sometimes, you'll want to combine multiple requests around the same topic in one mail. Only do this in case you're sure that *all* the recipients are interested in *all* the info in the mail - otherwise it might be more polite to split it up: that way you don't force people to read texts which they're not interested in, and you avoid people skipping the mail because it's too long.
+Sometimes, you'll want to combine multiple requests around the same topic in one mail. Only do this in case you're sure that *all* of the recipients are interested in *all* of the info in the mail - otherwise it might be more polite to split it up: that way you don't force people to read texts which they're not interested in, and you avoid people skipping the mail because it's too long.
 
 That being said, in some cases it is possibly more efficient to address two or even more people in one mail. We'll talk about how to address them properly further down.
 
 ### Informational group mails
 
-Mails that do not require a response or action are typically informational mails. Often, you want to send these to a specific *group* (a mailing or subscribers list, a company department). Further down, we'll see how to specifically address such mails properly. Don't just add a lot of people to the 'to' field!
+Mails that do not require a response or action are typically informational mails. Often, you want to send these to a specific *group* (a mailing - or subscribers list, a company department). Further down, we'll see how to specifically address such mails properly. Don't just add a lot of people to the 'to' field!
 
 ## To and CC fields
 
@@ -59,13 +59,13 @@ There are several difference between formal and informal mails, and whether it's
 
 Rules about formality will vary largely between cultures.
 
-It's beyond the scope of this guide to exhaustively list and discuss various greetings and salutations. Please refer to other sources when in doubt. In formal communication, you can typically closely follow the rules used for traditional (paper) mail. Please refer to [this site](http://www.syntaxis.com/email-salutations/) for business-specific salutations.
+It's beyond the scope of this guide to exhaustively list and discuss various greetings and salutations. Please refer to other sources when in doubt. In formal communication, you can typically closely follow the rules used for traditional (paper) mail. Please refer to [this site](http://www.syntaxis.com/email-salutations/) for business-specific salutations in email.
 
-Certainly in a formal context, whenever making initial contact, use the proper salutation. When the correspondent closes his or her email still using his or her full name, keep on addressing them in a formal way.
+Certainly in a formal context, whenever making initial contact, use the proper salutation. When the correspondent closes his or her email in a formal way, keep on addressing them formally.
 
 In the below examples I only use the first name, which is probably the most common scenario in most companies and between known business contacts.
 
-### General rule
+### Normal mails
 
 #### One recipient, one action
 
@@ -73,11 +73,11 @@ In most cases, you'll have only one recipient and the mail will only talk about 
 
 > John,
 >
-> Could you have a look at this problem and find a solution?
+> Could you have a look at this issue and find a solution?
 
 #### Multiple recipients, no common introduction
 
-Occasionally, it's better to address multiple people in one mail on a single subject. Typically, just address the person right before you ask him/her a question.
+Occasionally, it's better to address multiple people in one mail on a single subject. Typically, just address the person right before you ask him or her a question.
 
 > John,
 >
@@ -85,7 +85,7 @@ Occasionally, it's better to address multiple people in one mail on a single sub
 >
 > James,
 >
-> This is what we talked on the phone about. You needn't look into this any further.
+> This is what we talked about on the phone. You needn't look into this any further.
 
 #### Multiple recipients, common introduction
 
@@ -105,8 +105,22 @@ When sending short or multiple replies in a mail conversation (maybe chat would 
 
 > No problem, I'm already on it!
 
+### Group mails
+
+When you notice that you need to send your mail to multiple recipients and it just contains information (or requires everyone to perform a certain action), you might want to direct it to this entire group. Here are some common use cases:
+- Mailing lists
+- Subscribers to a newsletter
+- Informational mails for your company or your company's department
+
+If you are able to programatically send a personalized mail, greet the person directly, using your company culture's salutation. If not, you can probably just leave off a greeting entirely, and just commence your message; as if it was an article (maybe it should be, too?).
+
+### Mails to special mailboxes
+
+Another special case is when you send a mail to a special mailbox - either a company's general mail address, the group mailbox of a department at your company, a helpdesk,... You can typically expect that your mail will be converted into an issue and assigned to someone who will pick it up further.
+
+In these cases, just use a formal salutation.
+
 # Contributing
 
 - For discussing any of these guidelines, please create an issue. If possible use examples and/or references.
-
 - Corrections of language errors and typos are very welcome through pull requests! I'm not a native English speaker so please excuse me if there are any...
