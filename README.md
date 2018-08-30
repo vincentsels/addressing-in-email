@@ -38,7 +38,7 @@ The main rule is extremely simple:
 
 #### Only put the person you expect an action from in the 'to' field
 
-A recipient of an email should know whether an action or response is expected from him or her just by looking at whether he appears in the 'to' field (and is addressed in the mail body).
+A recipient of an email should know whether an action or response is expected from him or her just by looking at whether he or she appears in the 'to' field (and is addressed in the mail body).
 
 #### Use the 'CC' field for other people who you know are interested
 
@@ -55,11 +55,9 @@ Don't just let these fields grow and flood dozens of people with mail chains the
 
 ### Formal vs informal, initial vs recurring contact
 
-There are several difference between formal and informal mails, and whether it's the first time you contact someone whom you don't know.
+There are several differences between formal and informal mails, and whether it's the first time you contact someone whom you don't know or [recurring contact](https://english.stackexchange.com/questions/164283/greetings-after-initial-email). Furthermore, rules about formality will vary largely between cultures.
 
-Rules about formality will vary largely between cultures.
-
-It's beyond the scope of this guide to exhaustively list and discuss various greetings and salutations. Please refer to other sources when in doubt. In formal communication, you can typically closely follow the rules used for traditional (paper) mail. Please refer to [this site](http://www.syntaxis.com/email-salutations/) for business-specific salutations in email.
+It's beyond the scope of this guide to exhaustively list and discuss various greetings and salutations. Please refer to other sources when in doubt, there are plenty of [other sites](http://www.syntaxis.com/email-salutations) who focus on this. In formal communication, you can typically closely follow the rules used for traditional (paper) mail. Please refer to for business-specific salutations in email.
 
 Certainly in a formal context, whenever making initial contact, use the proper salutation. When the correspondent closes his or her email in a formal way, keep on addressing them formally.
 
